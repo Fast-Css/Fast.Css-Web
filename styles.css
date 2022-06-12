@@ -1,0 +1,28 @@
+#home {
+    font-size:  30px;
+}
+.link {
+    font-family: cursive;
+    font-size: 30px;
+    left: 60%;
+    top: -100px;
+    text-decoration: none;
+    color: hwb(0 0% 100%);
+    position: relative;
+    
+
+}
+.link2 {
+    font-size: 30px;
+    left: 64%;
+    top: -100px;
+    text-decoration: none;
+    color: hsl(0, 0%, 0%);
+    position: relative;
+    font-family: cursive;
+
+}
+img{
+ width: 100px;
+ height: 100px;
+}
